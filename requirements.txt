@@ -1,0 +1,5 @@
+pandas==2.1.4
+psycopg2==2.9.9
+pymongo==4.6.1
+PySide6==6.6.1
+setuptools==60.2.0
